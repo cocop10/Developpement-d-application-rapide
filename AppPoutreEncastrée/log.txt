@@ -1,0 +1,2 @@
+09/09/2020 11:22:50 : CalculPoutre : Section Circulaire, 10m, charge de 100 kg, Flèche de : 8,54939128143099E-20m.
+09/09/2020 11:23:31 : CalculPoutre : Section Annulaire, 100m, charge de 1000 kg, Flèche de : 6,02929060660454E-09m.
